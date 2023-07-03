@@ -1,4 +1,4 @@
-# Trip+香港
+# Trip+
 ## 相關文檔（臨時鏈接，預覽效果偏差，請原諒）
 ### [计划](./plan/choose "詳細的旅行計劃")
 ### [Tips](./tips "一些tips，例如港鐵特惠站")
@@ -12,7 +12,7 @@
 ### [可能會用到的網站](./web)
 ## 手機APP
 ### [點擊下載Android版MTR Mobile](https://www.123pan.com/s/2p39-uq3l.html)
-### [點擊下載Android版Trip+香港](./app/Trip+_3.0.apk)
+### [點擊下載Android版Trip+](./app/Trip+_3.0.apk)
 ## 攜帶物品
 ### [力力的物品](./things#力力的物品)
 ### [媽媽的物品](./things#媽媽的物品)
