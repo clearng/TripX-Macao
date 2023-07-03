@@ -4,4 +4,4 @@
 ## 下載高清嘅地圖
 [港鐵路綫圖](https://yellowcat.lanzoub.com/i7xNW116fakj)
 [輕鐵路綫圖](https://yellowcat.lanzoub.com/iPxFI116fape)
-[測試](https://pic.imgdb.cn/item/64a2b6171ddac507cc285586.png)
+[測試](https://www.123pan.com/s/2p39-h63l.html)
