@@ -46,7 +46,7 @@ HK$20/人，攜程提前1日買票。
 
 請注意公園公告
 
-[![濕地公園通告](./img/park.png)](https://www.wetlandpark.gov.hk/tc/whatsnew/1812)
+[![濕地公園通告](/img/park.png)](https://www.wetlandpark.gov.hk/tc/whatsnew/1812)
 
 **出行方案：**尖東站上車，乘坐西鐵綫屯門方向到天水圍站下車，預計29分鐘，費用HK$21.8
 #### 遊輕鐵
