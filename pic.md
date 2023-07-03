@@ -17,5 +17,7 @@
 ![香港鐵路博物館](./img/museum.jpg)
 ## 何東樓車廠
 ![何東樓車廠](./img/hotunglau.jpg)
+## 山頂纜車
+![山頂纜車](./img/lanche.jpg)
 ## 馬鞍山
 ![馬鞍山](./img/Ma_On_Shan_1.jpg)
