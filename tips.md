@@ -34,4 +34,3 @@
 1張1.5m雙人床
 
 [攜程鏈接](https://hotels.ctrip.com/hotels/detail/?hotelId=6839034&checkIn=2023-08-04&checkOut=2023-08-06&cityId=58&minprice=&mincurr=&adult=1&children=1&ages=0&crn=1&curr=&fgt=&stand=&stdcode=&hpaopts=&mproom=&ouid=&shoppingid=&roomkey=&highprice=-1&lowprice=0&showtotalamt=&hotelUniqueKey=&checkin=2023-08-04&checkout=2023-08-06)
-
