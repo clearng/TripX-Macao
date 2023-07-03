@@ -11,6 +11,9 @@
 ## 手機APP
 ### [點擊下載Android版MTR Mobile](https://www.123pan.com/s/2p39-uq3l.html)
 ### [點擊下載Android版Trip+香港](./app/Trip+_3.0.apk)
+## 攜帶物品
+### [力力的物品](./things#力力的物品)
+### [媽媽的物品](./things#媽媽的物品)
 ## 實時狀態請留意WeChat群聊
 ## 相冊
 請看WeChat群小程序
