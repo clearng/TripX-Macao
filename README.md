@@ -12,8 +12,8 @@
 ### [輕鐵系列](./words#輕鐵系列 "輕鐵系列")
 ### [可能會用到的網站](./web)
 ## 手機APP
-### [點擊下載Android版MTR Mobile](https://www.123pan.com/s/2p39-uq3l.html)
-### [點擊下載Android版Trip+](./app/Trip+_4.0.apk)
+### [下載Android版MTR Mobile](https://www.123pan.com/s/2p39-uq3l.html)
+### [下載Android版Trip+](./app/Trip+_4.0.apk)
 ## 攜帶物品
 ### [力力的物品](./things#力力的物品)
 ### [媽媽的物品](./things#媽媽的物品)
