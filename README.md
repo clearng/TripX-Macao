@@ -22,4 +22,4 @@
 ## 實時狀態請留意WeChat群聊
 ## 相冊
 ### 請看WeChat群小程序
-[Version1.0.6](./log)
+[Version1.0.7](./log)
