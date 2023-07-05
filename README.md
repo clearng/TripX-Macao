@@ -21,4 +21,4 @@
 ## 相冊
 ### 請看WeChat群小程序
 ### [配套雲盤](https://cloud-tripp.keliyan.top/)
-[Version1.0.5](./log)
+[Version1.0.5](https://tripp.keliyan.top/log)
