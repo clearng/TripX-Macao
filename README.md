@@ -13,13 +13,11 @@
 ### [地鐵系列](./words#地鐵系列 "地鐵系列")
 ### [輕鐵系列](./words#輕鐵系列 "輕鐵系列")
 ### [可能會用到的網站](./web)
-## 手機APP
-### [下載Android版MTR Mobile](https://www.123pan.com/s/2p39-uq3l.html)
-### [下載Android版Trip+](./app/Trip+_4.0.apk)
+## [應用商店](./app)
 ## 攜帶物品
 ### [力力的物品](./things#力力的物品)
 ### [媽媽的物品](./things#媽媽的物品)
 ## 實時狀態請留意WeChat群聊
 ## 相冊
 ### 請看WeChat群小程序
-[Version1.0.7](./log)
+[Version1.0.8](./log)
