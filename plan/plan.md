@@ -40,7 +40,7 @@ HK$20/人，攜程提前1日買票。
 
 [攜程鏈接](https://hotels.ctrip.com/hotels/6299874.html?cityid=58&checkin=2023-07-21&checkout=2023-07-23&adult=1&crn=1&children=1&ages=0#ctm_ref=www_hp_bs_lst)
 
-[備選](/tips#備選酒店)
+[備選](./spare-hotel)
 ## 第二天（賽馬日）
 ### 上午
 #### 香港濕地公園
@@ -80,7 +80,7 @@ HK$20/人，攜程提前1日買票。
 
 [攜程鏈接](https://hotels.ctrip.com/hotels/6299874.html?cityid=58&checkin=2023-07-21&checkout=2023-07-23&adult=1&crn=1&children=1&ages=0#ctm_ref=www_hp_bs_lst)
 
-[備選](/tips#備選酒店)
+[備選](./spare-hotel)
 ## 第三天
 ### 上午
 #### 馬鞍山
