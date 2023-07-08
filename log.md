@@ -1,4 +1,6 @@
 # 更新日誌
+## Version1.1.2
+更新了tips。
 ## Version1.1.1
 更新佐應用商店頁面。
 ## Version1.1.0

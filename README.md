@@ -19,4 +19,4 @@
 ## 實時狀態請留意WeChat群聊
 ## 相冊
 ### 請看WeChat群小程序
-[Version1.1.1](./log)
+[Version1.1.2](./log)
