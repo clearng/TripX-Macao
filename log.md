@@ -1,4 +1,6 @@
 # 更新日誌
+## Version1.1.3
+tips中增加佐上網卡。
 ## Version1.1.2
 更新了tips。
 ## Version1.1.1
