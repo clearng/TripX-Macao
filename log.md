@@ -1,4 +1,6 @@
 # 更新日誌
+## Version1.1.4
+增加佐4天嘅計劃。
 ## Version1.1.3
 tips中增加佐上網卡。
 ## Version1.1.2
