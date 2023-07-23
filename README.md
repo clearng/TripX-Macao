@@ -18,6 +18,6 @@
 ### [媽媽的物品](./things#媽媽的物品)
 ## 實時狀態請留意WeChat群聊
 ## 相冊
-### 請看WeChat群小程序
+### 請看WeChat群小程序或[點擊這裡](https://cloud.keliyan.top/photo)查看所有相片
 [网盘](https://cloud.keliyan.top)
-[Version1.1.4](./log)
+[Version1.1.5](./log)
