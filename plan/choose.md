@@ -1,9 +1,9 @@
 # 有兩個版本，請選擇你想睇嘅計劃
-## [表格版計劃](https://kdocs.cn/l/chuk7hkMLze5)
-表格版更加直觀，更加容易睇明！包含了3天的和4天的。
+## 表格版計劃
+![img](https://i.imgtg.com/2023/07/28/OieGtD.png)
+
+[點擊查看大圖](https://i.imgtg.com/2023/07/28/OieGtD.png)
 ## [純文字版計劃](./plan)
-純文字版更簡潔，快速揾到你想揾嘅那一日。
-### [第一天](./plan#第一天) [第二天](./plan#第二天賽馬日) [第三天](./plan#第三天)
+[第一天](./plan#第一天) [第二天](./plan#第二天賽馬日) [第三天](./plan#第三天)
 
-
-#### [備選計劃](./spare-plan)[備選酒店](./spare-hotel)
+[備選計劃](./spare-plan) [備選酒店](./spare-hotel)
