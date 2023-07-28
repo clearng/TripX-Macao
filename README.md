@@ -17,4 +17,4 @@
 [天氣](https://widget-page.qweather.net/h5/index.html?md=0123456&bg=1&lc=auto&key=2321f5f6e8474199877ba34961544a2e&v=_1690357360501)
 [鐵路資料](./railway)
 
-Version[1.1.7](./log)
+Version[1.1.8正式版](./log)
