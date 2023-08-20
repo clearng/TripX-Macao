@@ -1,4 +1,6 @@
 # TripX
+## 相關文檔
+[tips](./tips)
 ## 氹仔綫路綫圖
 ![img](https://mo.tripx.top/route_map.jpg)
 ## 更多
