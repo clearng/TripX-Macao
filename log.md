@@ -1,4 +1,6 @@
 # 更新日誌
+## Version1.2.0
+完成更名。
 ## Version1.1.9
 增設Trip+Mecao。
 ## Version1.1.8正式版
